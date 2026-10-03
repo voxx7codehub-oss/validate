@@ -1,0 +1,6 @@
+{
+  "name": "VALIDATEAI",
+  "description": "Validate your idea before you build it. AI-powered startup idea validation, customer analysis, market research, competitor discovery, risk and assumption tracking, validation planning, and MVP strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
